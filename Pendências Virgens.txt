@@ -1,0 +1,6 @@
+Pendências Virgens:
+- Gerar Chave Única (Componente Crypto)		OK
+- Bug no relatório de Ficha de Inscrição	
+- Bug no relatório de Comprovante de Pagamento	OK
+- Gerar PDF do Comprovante de pagamento		OK
+- Enviar por Email do sistema			
